@@ -27,11 +27,21 @@ Global_AI_Impact_Analysis/
 - Visualize public trust in AI and global regulation status.
 - Compare country-wise and industry-specific perspectives on AI.
 
-## 🛠 Tools & Technologies
+### 🛠️ Tools Used
 
-- **Python**: Data cleaning, transformation, EDA, and visualization (`pandas`, `matplotlib`, `seaborn`)
-- **Power BI**: Dashboard design and advanced data storytelling
-- **Jupyter Notebook**: Step-by-step analysis process
+- 🐍 **Python** – Data Cleaning, Analysis, and Visualization (Jupyter Notebook)
+- 📊 **Power BI** – Interactive Dashboard Design & Reporting
+- 📁 **Pandas**, **Matplotlib**, **Seaborn** – Python Libraries for EDA and Visuals
+- 📌 **Git & GitHub** – Version Control and Project Hosting
+
+### 🛠️ Tools & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-47A8BD?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
 
 ## 📊 Key Visuals & Insights
 
